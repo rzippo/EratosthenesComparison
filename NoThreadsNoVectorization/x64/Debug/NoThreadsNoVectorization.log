@@ -1,0 +1,2 @@
+﻿  cl : error della riga di comando D8016 : le opzioni della riga di comando '/O2' e '/RTC1' non sono compatibili
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(358,5): error MSB6006: "CL.exe" terminato con il codice 2.
